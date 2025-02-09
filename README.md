@@ -45,12 +45,12 @@ Earthquake data is retrieved from the USGS GeoJSON API: https://earthquake.usgs.
 
 ## File Structure
 
-leaflet-challenge/
-│-- PART ONE/         # Contains the required earthquake visualization
-│   ├── index.html    # Main file for Part One
-│   ├── static/
-│   │   ├── js/logic.js # JavaScript logic for Part One
-│-- README.md         # Project documentation (this file)
+    leaflet-challenge/
+    │-- PART ONE/         # Contains the required earthquake visualization
+    │   ├── index.html    # Main file for Part One
+    │   ├── static/
+    │   │   ├── js/logic.js # JavaScript logic for Part One
+    │-- README.md         # Project documentation (this file)
 
 ## Resources and Support
 
